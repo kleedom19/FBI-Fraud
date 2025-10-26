@@ -1,0 +1,4 @@
+import pandas as pd
+from pypdf import PdfReader
+
+reader = PDfReader("C:\Users\katie\Downloads\2024_IC3Report.pdf")
